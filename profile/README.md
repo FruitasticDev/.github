@@ -83,5 +83,5 @@ Hello everyone! We are CH2-PS193, a team of 7 members. Let me introduce my teamm
 
 ## Documentation
 - [Machine Learning]()
-- [Cloud Computing]()
+- [Cloud Computing](https://github.com/FruitasticDev/MachineLearning)
 - [Mobile Development](https://github.com/FruitasticDev/MobileDevelopment)
