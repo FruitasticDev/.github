@@ -83,5 +83,5 @@ Hello everyone! We are C242-PS364, a team of 7 members. Let me introduce my team
 
 ## Documentation
 - [Machine Learning](https://github.com/FruitasticDev/MachineLearning)
-- Cloud Computing
+- [Cloud Computing](https://github.com/FruitasticDev/CloudComputing)
 - [Mobile Development](https://github.com/FruitasticDev/MobileDevelopment)
