@@ -81,6 +81,9 @@ Hello everyone! We are C242-PS364, a team of 7 members. Let me introduce my team
   </tbody>
 </table>
 
+Demo: https://drive.google.com/file/d/1hmklZAsfdtrFgWg5t1nMb3nU41HNpTWI/view?usp=sharing 
+UI/UX Design: https://www.figma.com/design/VcfyUxOGuOajrePbKVEfjZ/Fruitastic-UI
+
 ## Documentation
 - [Machine Learning](https://github.com/FruitasticDev/MachineLearning)
 - [Cloud Computing](https://github.com/FruitasticDev/CloudComputing)
